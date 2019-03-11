@@ -1,0 +1,10 @@
+[09-Feb-2018 22:27:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Patchwork\Utf8\Bootup' not found in /home/jogs78/public_html/ittg/acumedic/am/bootstrap/autoload.php:46
+Stack trace:
+#0 /home/jogs78/public_html/ittg/acumedic/am/artisan(16): require()
+#1 {main}
+  thrown in /home/jogs78/public_html/ittg/acumedic/am/bootstrap/autoload.php on line 46
+[09-Feb-2018 22:29:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Patchwork\Utf8\Bootup' not found in /home/jogs78/public_html/ittg/acumedic/am/bootstrap/autoload.php:46
+Stack trace:
+#0 /home/jogs78/public_html/ittg/acumedic/am/artisan(16): require()
+#1 {main}
+  thrown in /home/jogs78/public_html/ittg/acumedic/am/bootstrap/autoload.php on line 46
